@@ -51,10 +51,10 @@ Advanced grammar correction
 Offline learning mode  
 Mobile app version  
 Gamified learning system   
-👨‍💻 Author
+## 👨‍💻 Author
 
 Name: Hamdan Saddique
-Project: MultiLingo Trainer
-📄 License
+Project: MultiLingo Trainer  
+## 📄 License
 
 This project is licensed under the MIT License.
